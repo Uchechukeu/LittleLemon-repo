@@ -1,1 +1,1 @@
-hello World
+This is the capstone project for META back-end developement programme. It is a booking application for the LittleLemon retaurant. 
